@@ -1,0 +1,23 @@
+*::selection{
+    background-color: pink;
+    color: white;
+}
+
+*{
+    background-color: black;
+    color: green;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.picture img{
+    height: 400px;
+}
+
+.picture{
+    text-align: center;
+}
